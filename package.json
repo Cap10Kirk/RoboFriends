@@ -2,12 +2,13 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cap10kirk.github.io/RoboFriends/",
+  "homepage": "https://cap10kirk.github.io/RoboFriends",
   "dependencies": {
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1",
+    "ajv": "^6.10.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
     "react-scripts": "^1.1.5",
-    "tachyons": "^4.10.0"
+    "tachyons": "^4.11.1"
   },
   "scripts": {
     "start": "react-scripts start",
