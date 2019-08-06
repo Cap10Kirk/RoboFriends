@@ -1,27 +1,27 @@
 export const robots = [
   {
     id: 1,
-    name: 'Leanne Graham',
-    username: 'Bret',
-    email: 'Sincere@april.biz'
+    name: 'DaJuan Kirkland',
+    username: 'DK',
+    email: 'dajuank@gmail.com'
   },
   {
     id: 2,
-    name: 'Ervin Howell',
-    username: 'Antonette',
-    email: 'Shanna@melissa.tv'
+    name: 'Jonathan Kirkland',
+    username: 'Curly Head Jon-Jon',
+    email: 'jaymaxkirk@icloud.com'
   },
   {
     id: 3,
-    name: 'Clementine Bauch',
-    username: 'Samantha',
-    email: 'Nathan@yesenia.net'
+    name: 'Christine Carr',
+    username: 'Teeeeeeeeeen',
+    email: 'cncarr013@gmail.com'
   },
   {
     id: 4,
-    name: 'Patricia Lebsack',
-    username: 'Karianne',
-    email: 'Julianne.OConner@kory.org'
+    name: 'Charlotte Sims',
+    username: 'Foxy Roxy',
+    email: 'ladycas66@aol.com'
   },
   {
     id: 5,
