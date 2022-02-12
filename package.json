@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://cap10kirk.github.io/RoboFriends",
   "dependencies": {
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "^3.0.1",
